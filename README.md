@@ -1,1 +1,1 @@
-# Reinforcement-Learning-Mario
+<h3 align="center">Reinforcment learning with Super Mario bros.</h3>
